@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Hi 👋, I'm Yasir Albardawil</h1>  
 <h3 align="center">A passionate Fullstack developer from Saudi Arabia</h3>  
   
@@ -9,7 +10,6 @@
 - 🔭 I’m currently working on [Mini ERP](https://demo.mini-erp.me/)  
   
 - 🌱 I’m currently learning **[Meta Front-End Developer](https://www.coursera.org/professional-certificates/meta-front-end-developer?)**
--   
 - 👯 I’m looking to collaborate on **any interesting**  
   
 - 🤝 I’m looking for help with **for promising and interesting projects**  
