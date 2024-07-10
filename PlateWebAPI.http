@@ -1,0 +1,6 @@
+@BiteWebAPI_HostAddress = http://localhost:5121
+
+GET {{BiteWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
