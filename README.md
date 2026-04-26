@@ -16,8 +16,6 @@
 | 🔭 **Currently building** | [Mini ERP](https://demo.mini-erp.me/) |
 | 💬 **Ask me about** | PHP · Laravel · JavaScript |
 | 👯 **Looking to collaborate** | Interesting & promising projects |
-| 📫 **Reach me** | [yasir.a.albardawil@gmail.com](mailto:yasir.a.albardawil@gmail.com) |
-
 ---
 
 ### 🛠 Tech stack
