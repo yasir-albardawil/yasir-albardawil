@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yasir Albardawil</h1>
-<p align="center">Fullstack developer · Laravel & Filament specialist · Riyadh, Saudi Arabia 🇸🇦</p>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Laravel+%26+Filament+Specialist;Fullstack+PHP+Developer;API+%26+ERP+Integrations;Open+to+Collaborate+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yasir-albardawil&label=Profile+views&color=7F77DD&style=flat-square" />
@@ -14,8 +19,9 @@
 | | |
 |---|---|
 | 🔭 **Currently building** | [Mini ERP](https://demo.mini-erp.me/) |
-| 💬 **Ask me about** | PHP · Laravel · JavaScript |
+| 💬 **Ask me about** | PHP · Laravel · Filament · JavaScript |
 | 👯 **Looking to collaborate** | Interesting & promising projects |
+
 ---
 
 ### 🛠 Tech stack
@@ -40,3 +46,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasir-albardawil)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yasir-albardawil)
+
+---
+
+<p align="center">
+  <i>Building reliable software for real-world problems — one commit at a time.</i>
+</p>
