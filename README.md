@@ -18,7 +18,6 @@
 
 | | |
 |---|---|
-| 🔭 **Currently building** | [Mini ERP](https://demo.mini-erp.me/) |
 | 💬 **Ask me about** | PHP · Laravel · Filament · JavaScript |
 | 👯 **Looking to collaborate** | Interesting & promising projects |
 
